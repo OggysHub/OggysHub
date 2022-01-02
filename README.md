@@ -12,4 +12,4 @@
 <h3 align="left" ><i>Connect with me :</i></h3>
 
 <p style="list-style : none"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> +8801777480616
-&nbsp  <g-emoji class="g-emoji" alias="letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:jaahid.cse@gmail.com">siamshaeed@gmail.com</a></p>
+&nbsp  <g-emoji class="g-emoji" alias="letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">💌</g-emoji> <a href="mailto:jaahid.cse@gmail.com">jaahid.cse@gmail.com</a></p>
