@@ -2,7 +2,7 @@
 <h3><i>This is Ariful Islam Jahid from Dhaka, Bangladesh</i></h3>
 
 <blockquote>
-<h4>Jr. Software QA Engineer</h4>
+<h4>Test Engineer</h4>
 </blockquote>
 
 <p>𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐝 𝐒𝐐𝐀 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐰𝐢𝐭𝐡 𝐚 𝐩𝐫𝐨𝐯𝐞𝐧 𝐡𝐢𝐬𝐭𝐨𝐫𝐲 𝐨𝐟 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐢𝐧 𝐭𝐡𝐞 𝐈𝐓 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐟𝐨𝐫 𝐦𝐨𝐫𝐞 𝐭𝐡𝐚𝐧 3 𝐲𝐞𝐚𝐫.
